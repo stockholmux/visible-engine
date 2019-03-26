@@ -1,0 +1,16 @@
+{
+  "name": "visibleengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "visibleengine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Davis",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "eventemitter2": "^5.0.1",
+    "redis": "^2.8.0"
+  }
+}
